@@ -68,6 +68,15 @@ Note: if you want to listen to the queues you can use the below command:
 
 <img width="620" alt="Screenshot 2021-09-05 at 3 09 49 AM" src="https://user-images.githubusercontent.com/65660680/132116287-07e76646-95e8-4c33-a217-026e1bab7f02.png">
 
+
+   ##### Email Template
+   
+<img width="648" alt="Screenshot 2021-09-05 at 10 31 39 AM" src="https://user-images.githubusercontent.com/65660680/132116492-8a3b7dc7-07a7-4ca9-adcb-766b6215dab4.png">
+
+
+
+
+
 -----
    ##### queue listening
 
