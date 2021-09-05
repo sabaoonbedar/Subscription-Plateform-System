@@ -1,9 +1,9 @@
 # Subscription System
- Subscription platform(with RESTful APIs with MySQL) in which users can subscribe to a website there are multiple websites in the system that can be created dynamically. Whenever a new post is published on a particular website, all it's subscribers receive an email with the post title and description in it. The emails run in the background throuh queue jobs. 
+ Subscription platform(with RESTful APIs and MySQL) in which users can subscribe to a website and there are multiple websites in the system that can be created dynamically. Whenever a new post is published on a particular website, all it's subscribers receive an email with the post title and description in it. The emails run in the background through queue jobs. 
 
 ###### Included information:-
 - Migrations for the all tables are added in the system.
-- You create a "post" for a "particular website".
+- You can create a "post" for a "particular website".
 - User can subscribe to a "particular website" with all validations through the help of models relationships.
 - Emails would be sent after every new post to the particular website subscribers and will  inform them with the title and description of the post that is done on a particular website.
 - Queues are used to schedule sending emails in the background.
@@ -53,4 +53,8 @@ Note: if you want to listen to the queues you can use the below command:
 #### Step 2 : Run the system
 
    ``` php artisan serve ```  
+   
+   Main Page
+   <img width="1431" alt="Screenshot 2021-09-05 at 3 09 18 AM" src="https://user-images.githubusercontent.com/65660680/132116178-57ff5dae-140f-45d7-9bbc-4a66fd189b53.png">
+
 
