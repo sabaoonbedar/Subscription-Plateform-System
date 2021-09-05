@@ -71,7 +71,7 @@ Note: if you want to listen to the queues you can use the below command:
 
    ##### Email Template
    
-<img width="648" alt="Screenshot 2021-09-05 at 10 31 39 AM" src="https://user-images.githubusercontent.com/65660680/132116492-8a3b7dc7-07a7-4ca9-adcb-766b6215dab4.png">
+<img width="648" alt="Screenshot 2021-09-05 at 10 31 39 AM" src="https://user-images.githubusercontent.com/65660680/132117744-4da06df4-533c-4938-8bdc-2fb057f7bee5.png">
 
 
 
